@@ -2,9 +2,9 @@
 Updated (v3)
 
 ## Pre-requisites
-- Qwen CLI should be installed.
-- Claude Code should be installed.
-- Claude Code Router should be installed.
+- Qwen CLI should be installed. see command [here](qwen.md)
+- Claude Code should be installed. see command [here](claude-code.md)
+- Claude Code Router should be installed. see command [here](claude-code.md)
 - config.json file of Claude Code Router should contain values according to Qwen. Just copy paste the provided config file in claude code router folder.
 
 ## Generate new API key of Qwen
