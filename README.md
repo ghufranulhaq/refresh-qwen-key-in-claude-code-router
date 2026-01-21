@@ -17,6 +17,7 @@ qwen --auth-type qwen-oauth -p "hi" && python3 ~/copy_qwen_apikey.py && ccr rest
 ```
 
 This command will do these things in one go.
+
 1.⁠ ⁠Regenerate Qwen API key
 2.⁠ ⁠⁠Copy Qwen key to Claude Code router
 3.⁠ ⁠⁠ccr restart
