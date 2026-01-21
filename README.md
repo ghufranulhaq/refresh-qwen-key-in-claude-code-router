@@ -18,10 +18,10 @@ qwen --auth-type qwen-oauth -p "hi" && python3 ~/copy_qwen_apikey.py && ccr rest
 
 This command will do these things in one go.
 
-1.⁠ ⁠Regenerate Qwen API key
-1.⁠ ⁠⁠Copy Qwen key to Claude Code router
-1.⁠ ⁠⁠ccr restart
-1.⁠ ⁠⁠Open Claude Code by running command “ccr code”
+1. ⁠Regenerate Qwen API key
+1. ⁠⁠Copy Qwen key to Claude Code router
+1. ⁠⁠ccr restart
+1. ⁠⁠Open Claude Code by running command “ccr code”
 
 Note: I have used it in MacOS, it worked well. I am sure it will work in Linux too. and I think it will work in Git Bash and WSL too, if you are using any of them in windows.
 
